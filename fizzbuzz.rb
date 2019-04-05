@@ -12,4 +12,4 @@ def fizzbuzz(int)
   end
 end
 num = gets.strip
-fizzbuzz(num)
+puts fizzbuzz(num)
