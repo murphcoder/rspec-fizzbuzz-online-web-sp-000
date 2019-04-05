@@ -8,7 +8,7 @@ def fizzbuzz(int)
   elsif int % 3 == 0
     "fizz"
   else
-    return nil
+    nil
   end
 end
 num = gets.strip
