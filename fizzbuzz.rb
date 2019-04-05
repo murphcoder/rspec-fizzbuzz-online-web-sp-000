@@ -11,3 +11,5 @@ def fizzbuzz(int)
     return nil
   end
 end
+num = gets.strip
+fizzbuzz(num)
